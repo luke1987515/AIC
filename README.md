@@ -67,7 +67,7 @@ description: DQA 筆記
 | --- | --- |
 | SB201-VG | 2018-06-05 | 2018-06-29 |
 
-
+{% page-ref page="sb201-vg.md" %}
 
 ## 何時完成 J4076-01 \(/J4060-01\) Report?
 
