@@ -29,7 +29,7 @@ description: DQA 筆記
 [https://www.slideshare.net/SuhaTamim/projectbased-and-problembased-learning](https://www.slideshare.net/SuhaTamim/projectbased-and-problembased-learning)
 {% endhint %}
 
-## 何時完成 4U78 Report?
+## 何時完成 J4078-01 Report?
 
 參考 複本 DQA\_2018\_W24\(0610-0616\).xlsx
 
@@ -37,9 +37,13 @@ description: DQA 筆記
 | --- | --- |
 | J4078-01 4U78 JBOD \(J4108-01\) | 2018-04-18 | 2018-06-22 |
 
+{% page-ref page="j4u78-01.md" %}
 
+{% hint style="success" %}
+2018-06-19 寄出 Report
+{% endhint %}
 
-## 何時完成 4U108 Report?
+## 何時完成 J40108-01 Report?
 
 參考 複本 DQA\_2018\_W24\(0610-0616\).xlsx
 
@@ -47,7 +51,11 @@ description: DQA 筆記
 | --- | --- |
 | J4078-01 4U78 JBOD \(J4108-01\) | 2018-04-18 | 2018-06-22 |
 
+{% page-ref page="j4u108-01.md" %}
 
+{% hint style="success" %}
+2018-06-20 寄出 Report
+{% endhint %}
 
 ## 何時完成 J4060-02 Report?
 
