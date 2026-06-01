@@ -35,6 +35,9 @@ neil
 
 設計品質保證部	2761	黃俊智	資深工程師# Neil 的筆記
 
+[![hackmd-github-sync-badge](https://hackmd.io/8qR5CzxjQHqM_C0vfnbSgg/badge)](https://hackmd.io/8qR5CzxjQHqM_C0vfnbSgg)
+
+
 ## 到職日
 
 ```
